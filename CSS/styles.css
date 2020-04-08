@@ -1,0 +1,77 @@
+
+body{
+    
+    text-align: center;
+    margin: 0em;
+    font-family: 'Merriweather', serif;
+    /*!-- if arial or helvatica sans-serif -*/
+}
+h1{
+    font-size: 500%;
+    font-family: 'Sacramento', cursive;
+    color: #11999E;
+    line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    text-align: center;
+}
+hr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    
+}
+.bara-image{
+    width: 10%;
+
+}
+.gify{
+    width: 15%;
+}
+.top-cloud{
+    width: 8%;
+    height:8%;;
+    position: absolute;
+    top: 400px;
+    left: 20%;
+}
+.bottom-cloud{
+    width: 8%;
+    height:8%;;
+    position: absolute;
+    top: 250px;
+    right: 30%;
+}
+.land{
+    width: 40%;
+    height: 40%;
+}
+.skills-img{
+    width: 15%;
+}
+
+.top-container{
+    background-color: #EAf6f6;
+    
+}
+
+.middle-container{
+}   
+.bottom-container{
+  
+}
+
